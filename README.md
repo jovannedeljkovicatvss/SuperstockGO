@@ -10,26 +10,39 @@
 Android aplikacija za upravljanje zalihama i inventarom.
 
 ## 📸 Screenshots
+## 📸 Screenshots
+
 <table>
+  <!-- PRVI RED: 5 SLIKA -->
   <tr>
-    <td><img src="./screenshots/main.jpg" width="200" alt="Glavni ekran"></td>
-    <td><img src="./screenshots/screenshot_1.jpg" width="200" alt="Lista artikala"></td>
-    <td><img src="./screenshots/screenshot_2.jpg" width="200" alt="Detalji"></td>
+    <td><img src="./screenshots/main.jpg" width="180" alt="Glavni ekran"></td>
+    <td><img src="./screenshots/screenshot_1.jpg" width="180" alt="Ekran 1"></td>
+    <td><img src="./screenshots/screenshot_2.jpg" width="180" alt="Ekran 2"></td>
+    <td><img src="./screenshots/screenshot_3.jpg" width="180" alt="Ekran 3"></td>
+    <td><img src="./screenshots/screenshot_4.jpg" width="180" alt="Ekran 4"></td>
   </tr>
   <tr>
-    <td><b>Glavni ekran</b></td>
-    <td><b>Lista artikala</b></td>
-    <td><b>Detalji artikla</b></td>
+    <td><center><b>Glavni ekran</b></center></td>
+    <td><center><b>Lista artikala</b></center></td>
+    <td><center><b>Detalji artikla</b></center></td>
+    <td><center><b>Statistike</b></center></td>
+    <td><center><b>Kategorije</b></center></td>
+  </tr>
+  
+  <!-- DRUGI RED: 5 SLIKA -->
+  <tr>
+    <td><img src="./screenshots/screenshot_5.jpg" width="180" alt="Ekran 5"></td>
+    <td><img src="./screenshots/screenshot_6.jpg" width="180" alt="Ekran 6"></td>
+    <td><img src="./screenshots/screenshot_7.jpg" width="180" alt="Ekran 7"></td>
+    <td><img src="./screenshots/screenshot_8.jpg" width="180" alt="Ekran 8"></td>
+    <td><img src="./screenshots/screenshot_9.jpg" width="180" alt="Ekran 9"></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/screenshot_3.jpg" width="200" alt="Statistike"></td>
-    <td><img src="./screenshots/screenshot_4.jpg" width="200" alt="Kategorije"></td>
-    <td><img src="./screenshots/screenshot_5.jpg" width="200" alt="Backup"></td>
-  </tr>
-  <tr>
-    <td><b>Statistike</b></td>
-    <td><b>Kategorije</b></td>
-    <td><b>Backup</b></td>
+    <td><center><b>Backup</b></center></td>
+    <td><center><b>Notifikacije</b></center></td>
+    <td><center><b>Sinhronizacija</b></center></td>
+    <td><center><b>Podešavanja</b></center></td>
+    <td><center><b>Dark mode</b></center></td>
   </tr>
 </table>
 
