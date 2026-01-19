@@ -10,23 +10,41 @@
 Android aplikacija za upravljanje zalihama i inventarom.
 
 ## 📸 Screenshots
-<div align="center">
-  
-**Glavni ekran**<br>
-<img src="./screenshots/main.jpg" width="280"><br><br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <div><img src="./screenshots/screenshot_1.jpg" width="180"><br><small>Lista artikala</small></div>
-  <div><img src="./screenshots/screenshot_2.jpg" width="180"><br><small>Detalji</small></div>
-  <div><img src="./screenshots/screenshot_3.jpg" width="180"><br><small>Statistike</small></div>
-  <div><img src="./screenshots/screenshot_4.jpg" width="180"><br><small>Kategorije</small></div>
-  <div><img src="./screenshots/screenshot_5.jpg" width="180"><br><small>Backup</small></div>
-  <div><img src="./screenshots/screenshot_6.jpg" width="180"><br><small>Notifikacije</small></div>
-  <div><img src="./screenshots/screenshot_7.jpg" width="180"><br><small>Sinhronizacija</small></div>
-  <div><img src="./screenshots/screenshot_8.jpg" width="180"><br><small>Podešavanja</small></div>
-  <div><img src="./screenshots/screenshot_9.jpg" width="180"><br><small>Dark mode</small></div>
-</div>
-</div>
+
+<table>
+  <!-- PRVI RED: 5 SLIKA -->
+  <tr>
+    <td><img src="./screenshots/main.jpg" width="180" alt="Glavni ekran"></td>
+    <td><img src="./screenshots/screenshot_1.jpg" width="180" alt="Ekran 1"></td>
+    <td><img src="./screenshots/screenshot_2.jpg" width="180" alt="Ekran 2"></td>
+    <td><img src="./screenshots/screenshot_3.jpg" width="180" alt="Ekran 3"></td>
+    <td><img src="./screenshots/screenshot_4.jpg" width="180" alt="Ekran 4"></td>
+  </tr>
+  <tr>
+    <td><center><b>Glavni ekran</b></center></td>
+    <td><center><b>Lista artikala</b></center></td>
+    <td><center><b>Detalji artikla</b></center></td>
+    <td><center><b>Statistike</b></center></td>
+    <td><center><b>Kategorije</b></center></td>
+  </tr>
+  
+  <!-- DRUGI RED: 5 SLIKA -->
+  <tr>
+    <td><img src="./screenshots/screenshot_5.jpg" width="180" alt="Ekran 5"></td>
+    <td><img src="./screenshots/screenshot_6.jpg" width="180" alt="Ekran 6"></td>
+    <td><img src="./screenshots/screenshot_7.jpg" width="180" alt="Ekran 7"></td>
+    <td><img src="./screenshots/screenshot_8.jpg" width="180" alt="Ekran 8"></td>
+    <td><img src="./screenshots/screenshot_9.jpg" width="180" alt="Ekran 9"></td>
+  </tr>
+  <tr>
+    <td><center><b>Backup</b></center></td>
+    <td><center><b>Notifikacije</b></center></td>
+    <td><center><b>Sinhronizacija</b></center></td>
+    <td><center><b>Podešavanja</b></center></td>
+    <td><center><b>Dark mode</b></center></td>
+  </tr>
+</table>
 
 ## ✨ Funkcionalnosti
 - 📊 Upravljanje inventarom
