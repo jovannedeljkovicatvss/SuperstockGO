@@ -10,7 +10,28 @@
 Android aplikacija za upravljanje zalihama i inventarom.
 
 ## 📸 Screenshots
-![App Screenshot](./screenshots/main.jpg)
+<table>
+  <tr>
+    <td><img src="./screenshots/main.jpg" width="200" alt="Glavni ekran"></td>
+    <td><img src="./screenshots/screenshot_1.jpg" width="200" alt="Lista artikala"></td>
+    <td><img src="./screenshots/screenshot_2.jpg" width="200" alt="Detalji"></td>
+  </tr>
+  <tr>
+    <td><b>Glavni ekran</b></td>
+    <td><b>Lista artikala</b></td>
+    <td><b>Detalji artikla</b></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/screenshot_3.jpg" width="200" alt="Statistike"></td>
+    <td><img src="./screenshots/screenshot_4.jpg" width="200" alt="Kategorije"></td>
+    <td><img src="./screenshots/screenshot_5.jpg" width="200" alt="Backup"></td>
+  </tr>
+  <tr>
+    <td><b>Statistike</b></td>
+    <td><b>Kategorije</b></td>
+    <td><b>Backup</b></td>
+  </tr>
+</table>
 
 ## ✨ Funkcionalnosti
 - 📊 Upravljanje inventarom
