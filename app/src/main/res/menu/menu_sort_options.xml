@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_sort_name_asc"
+        android:title="Naziv (A → Z)" />
+
+    <item
+        android:id="@+id/menu_sort_name_desc"
+        android:title="Naziv (Z → A)" />
+
+    <item
+        android:id="@+id/menu_sort_quantity_asc"
+        android:title="Količina (manje → više)" />
+
+    <item
+        android:id="@+id/menu_sort_quantity_desc"
+        android:title="Količina (više → manje)" />
+
+    <item
+        android:id="@+id/menu_sort_category"
+        android:title="Po kategoriji" />
+</menu>
