@@ -22,9 +22,9 @@ Android aplikacija za upravljanje zalihama i inventarom.
     <td><img src="./screenshots/screenshot_4.jpg" width="180" alt="Ekran 4"></td>
   </tr>
   <tr>
-    <td><center><b>Glavni ekran</b></center></td>
-    <td><center><b>Lista artikala</b></center></td>
-    <td><center><b>Detalji artikla</b></center></td>
+    <td><center><b>Login ekran</b></center></td>
+    <td><center><b>Lokalni Backup & Restore</b></center></td>
+    <td><center><b>Statistike</b></center></td>
     <td><center><b>Statistike</b></center></td>
     <td><center><b>Kategorije</b></center></td>
   </tr>
@@ -38,11 +38,11 @@ Android aplikacija za upravljanje zalihama i inventarom.
     <td><img src="./screenshots/screenshot_9.jpg" width="180" alt="Ekran 9"></td>
   </tr>
   <tr>
-    <td><center><b>Backup</b></center></td>
-    <td><center><b>Notifikacije</b></center></td>
-    <td><center><b>Sinhronizacija</b></center></td>
-    <td><center><b>Podešavanja</b></center></td>
-    <td><center><b>Dark mode</b></center></td>
+    <td><center><b>Kategorije</b></center></td>
+    <td><center><b>Lista artikala</b></center></td>
+    <td><center><b>Sortiranje artikala</b></center></td>
+    <td><center><b>Glavni Meni</b></center></td>
+    <td><center><b>Cloud sinhronizacija</b></center></td>
   </tr>
 </table>
 
